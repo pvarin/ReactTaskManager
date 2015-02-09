@@ -1,0 +1,6 @@
+* {
+    vertical-align: top;
+}
+.TaskManager li {
+    list-style-type: none;
+}

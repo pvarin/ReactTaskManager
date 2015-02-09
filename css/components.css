@@ -1,0 +1,14 @@
+.Sidebar{
+    display: inline-block;
+    width:20%;
+}
+
+.withSidebar{
+    display: inline-block;
+    width:80%;
+}
+
+.Column-2{
+    display: inline-block;
+    width:50%;
+}
